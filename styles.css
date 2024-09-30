@@ -1,0 +1,33 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h3 {
+    color: crimson;
+}
+
+h2 {
+    color: blue; size: 24px;
+    text-align: center;
+}
+
+.box{
+    color: bisque;
+    background-color: brown;
+    text-align: center;
+    border-radius: 30px;
+}
+
+#unique {
+    font-size: 20px;
+    border-radius: 30px;
+}
+
+th {
+    color: rgb(3, 58, 60);
+}
+
+tr {
+    color: rgb(53, 76, 120);
+}
